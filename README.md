@@ -14,6 +14,13 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## Project Clone 
+
+```sh
+git clone https://github.com/Yasser-Slaymen/Yasser-Slaymen-Wonderkind-FE.git
+```
+## Navigate to Cloned Repository
+ navigate into the project folder where the repository was cloned
 ## Project Setup
 
 ```sh
@@ -32,11 +39,6 @@ npm run dev
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
 
 #### Technologies Used:
 - Vue3
@@ -49,3 +51,9 @@ npm run lint
 - `/src/views`: Vue views for different pages of the dashboard.
 - `/src/utils`: Utility functions and data files.
 - `/src/router`: Vue Router configuration.
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
