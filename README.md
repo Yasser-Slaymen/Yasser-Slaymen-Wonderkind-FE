@@ -37,3 +37,15 @@ npm run build
 ```sh
 npm run lint
 ```
+
+#### Technologies Used:
+- Vue3
+- TypeScript
+- Vue Router
+- Vuex
+
+#### Folder Structure:
+- `/src/components`: Contains Vue components used in the dashboard.
+- `/src/views`: Vue views for different pages of the dashboard.
+- `/src/utils`: Utility functions and data files.
+- `/src/router`: Vue Router configuration.
