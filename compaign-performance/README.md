@@ -1,6 +1,6 @@
 # compaign-performance
 
-This template should help get you started developing with Vue 3 in Vite.
+This repository contains the code for the Wonderkind FE Coding Assessment Dashboard. The dashboard is built using Vue3 with TypeScript and showcases a comprehensive overview of the performance metrics for various job vacancy marketing campaigns across different platforms (Meta, Google, TikTok).
 
 ## Recommended IDE Setup
 
@@ -31,6 +31,19 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+#### Technologies Used:
+- Vue3
+- TypeScript
+- Vue Router
+- Vuex
+
+#### Folder Structure:
+- `/src/components`: Contains Vue components used in the dashboard.
+- `/src/views`: Vue views for different pages of the dashboard.
+- `/src/utils`: Utility functions and data files.
+- `/src/router`: Vue Router configuration.
 
 ### Lint with [ESLint](https://eslint.org/)
 
