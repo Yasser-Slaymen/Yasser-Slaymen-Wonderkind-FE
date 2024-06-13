@@ -14,12 +14,13 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Clone
+## Project Clone 
 
 ```sh
-git clone 
+git clone https://github.com/Yasser-Slaymen/Yasser-Slaymen-Wonderkind-FE.git
 ```
-
+## Navigate to Cloned Repository
+ navigate into the project folder where the repository was cloned
 ## Project Setup
 
 ```sh
